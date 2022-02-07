@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CRohm42
 - 👀 I’m interested in Test Automation for UI and API testing.
-- 🌱 I’m currently learning more about SpecFlow, Selenium, C#, and Saucelabs.
+- 🌱 I’m currently learning more about SpecFlow, Selenium, C#, Saucelabs, Git/GitHub and PowerShell.
 - 💞️ I’m not looking to collaborate atm.
 - 📫 How to reach me crohmiller@jhacorp.com
 
